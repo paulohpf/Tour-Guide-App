@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Vitória Régia -->
+    <string name="vitoriaregia_name">Parque Vitória Régia</string>
+    <string name="vitoriaregia_description">É visível por quem passa por uma das principais e mais movimentadas avenidas da cidade, a Nações Unidas o imponente Parque Vitória Régia.\nFoi construído há 39 anos. Além de símbolo, é tido como o cartão postal da Cidade Sem Limites (Bauru).</string>
+
+    <!-- Fiu Fiu Batatas -->
+    <string name="ffbatatas_name">Fiu Fiu Batatas</string>
+    <string name="ffbatatas_description">É curioso passar a noite pela Av. Nações Unidas em frente ao parque Vitória Régia e ver um trailer branco com luzes amarelas e filas imensas, com muita gente sentada em cadeiras e mesas de plástico ao ar livre.\nPerguntando pela cidade descobre-se que alí é o Fiu Fiu e que só se vende batatas fritas...\nBatatas fritas tipo "chips" e "palito" são as opções de venda deste trailer.\nCom porções generosas e a preços bem acessíveis, é o que justifica a fila e o movimento, já considerado de tradição na cidade.</string>
+
+    <!-- Frigere Pizza Frita -->
+    <string name="pizzafrita_name">Frigere Pizza Frita</string>
+    <string name="pizzafrita_description">Pizzaria inova conceito e passa a fritar as pizzas, com uso de massa própria e produzida à vista dos clientes.</string>
+
+    <!-- Cia do Caldinho -->
+    <string name="ciadocaldinho_name">Cia do Caldinho</string>
+    <string name="ciadocaldinho_description">Caldos tradicionais, mais porções, pizzas e panquecas, em ambiente familiar aconchegante, de pedra e madeira.</string>
+</resources>
