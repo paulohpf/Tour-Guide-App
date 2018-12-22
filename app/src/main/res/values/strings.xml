@@ -4,6 +4,12 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <!-- Main Activity Titles -->
+    <string name="bauru_nacoes_unidas">Nações Unidas</string>
+    <string name="bauru_getulio_vargas">Getúlio Vargas</string>
+    <string name="bauru_shopping">Bauru Shopping</string>
+    <string name="bauru_boulevard_shopping">Boulevard Shopping</string>
+
     <!-- Vitória Régia -->
     <string name="vitoriaregia_name">Parque Vitória Régia</string>
     <string name="vitoriaregia_description">É visível por quem passa por uma das principais e mais movimentadas avenidas da cidade, a Nações Unidas o imponente Parque Vitória Régia.\nFoi construído há 39 anos. Além de símbolo, é tido como o cartão postal da Cidade Sem Limites (Bauru).</string>
@@ -19,4 +25,32 @@
     <!-- Cia do Caldinho -->
     <string name="ciadocaldinho_name">Cia do Caldinho</string>
     <string name="ciadocaldinho_description">Caldos tradicionais, mais porções, pizzas e panquecas, em ambiente familiar aconchegante, de pedra e madeira.</string>
+
+    <!-- Getulio Vargas -->
+    <!-- Estancia Grill Prime -->
+    <string name="estanciagrill_name">Estancia Grill Prime</string>
+    <string name="estanciagrill_description">Localizado na Avenida Getúlio Vargas, o Estancia Grill é espaçoso, com ótimo espaço kids e excelente variedade no buffet.</string>
+
+    <!-- Açai da Barra-->
+    <string name="acaidabarra_name">Açai da Barra</string>
+    <string name="acaidabarra_description">Diversas opções de sucos, salgados com toque natural,
+        destaque às tigelas de açaí sem corante e clima simples.</string>
+
+    <!-- Bauru Shopping -->
+    <!-- Game Play-->
+    <string name="gameplay_name">Gameplay Store</string>
+    <string name="gameplay_description">A Gameplay Game Store é uma loja especializada em games e acessórios para Playstation e Xbox.</string>
+
+    <!-- Lojas Americanas -->
+    <string name="lojasamericanas_nome">Lojas Americanas</string>
+    <string name="lojasamericanas_description">Lojas Americanas S.A. é uma empresa brasileira do segmento de varejo fundada em 1929 na cidade de Niterói pelo austríaco Max Landesmann e pelos norte-americanos John Lee, Glen Matson, James Marshall e Batson Borger. A empresa conta com mais de 1320 estabelecimentos de vendas em todo o Brasil.</string>
+
+    <!-- Boulevard Shopping -->
+    <!-- Burger King -->
+    <string name="burgerking_name">Burger King</string>
+    <string name="burgerking_description">Burger King, muitas vezes abreviado como BK, é uma rede de restaurantes especializada em fast-food, fundada nos Estados Unidos por James McLamore e David Edgerton, que abriram a primeira unidade em Miami, Flórida.</string>
+
+    <!-- McDonald's -->
+    <string name="mcdonalds_name">McDonald\'s</string>
+    <string name="mcdonalds_description">McDonald\'s Corporation é a maior cadeia mundial de restaurantes de fast food de hambúrguer, servindo cerca de 68 milhões de clientes por dia em 119 países através de 37 mil pontos de venda. Com sede nos Estados Unidos, a empresa começou em 1940 como uma churrascaria operada por Richard e Maurice McDonald.</string>
 </resources>

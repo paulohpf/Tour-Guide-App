@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v4.widget.DrawerLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    style="@style/activityDefault"
     tools:context=".MainActivity">
 
-    <!-- The main content view -->
-    <android.support.v4.view.ViewPager
-        android:id="@+id/viewpager"
+    <TextView
+        android:id="@+id/main_nacoes"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content"
+        android:text="@string/bauru_nacoes_unidas"
+        style="@style/activityDefault_textview"
+        android:background="#fdcb6e"/>
 
-    <!-- The navigation drawer -->
-    <ListView
-        android:id="@+id/left_drawer"
-        android:layout_width="240dp"
-        android:layout_height="match_parent"
-        android:layout_gravity="start"
-        android:choiceMode="singleChoice"
-        android:divider="@android:color/transparent"
-        android:dividerHeight="0dp"
-        android:background="#636e72" />
+    <TextView
+        android:id="@+id/main_getulio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bauru_getulio_vargas"
+        style="@style/activityDefault_textview"
+        android:background="#e17055"/>
 
-</android.support.v4.widget.DrawerLayout>
+    <TextView
+        android:id="@+id/main_boulevar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bauru_boulevard_shopping"
+        style="@style/activityDefault_textview"
+        android:background="#d63031"/>
+
+    <TextView
+        android:id="@+id/main_bauru_shopping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bauru_shopping"
+        style="@style/activityDefault_textview"
+        android:background="#e84393"/>
+
+</LinearLayout>
