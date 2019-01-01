@@ -16,30 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".NacoesUnidasActivity"
-            android:label="@string/bauru_nacoes_unidas" >
-        <meta-data
-            android:name="android.support.PARENT_ACTIVITY"
-            android:value=".MainActivity" />
-        </activity>
-        <activity
-            android:name=".GetulioVargasActivity"
-            android:label="@string/bauru_getulio_vargas" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity
-            android:name=".BauruShoppingActivity"
-            android:label="@string/bauru_shopping" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-        <activity
-            android:name=".BoulevardShoppingActivity"
-            android:label="@string/bauru_boulevard_shopping" >
+        <activity android:name=".PlaceActivity"
+            android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />

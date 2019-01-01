@@ -8,36 +8,16 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/main_nacoes"
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabs"
+        style="@style/CategoryTab"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/bauru_nacoes_unidas"
-        style="@style/activityDefault_textview"
-        android:background="#fdcb6e"/>
+        />
 
-    <TextView
-        android:id="@+id/main_getulio"
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/bauru_getulio_vargas"
-        style="@style/activityDefault_textview"
-        android:background="#e17055"/>
-
-    <TextView
-        android:id="@+id/main_boulevar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/bauru_boulevard_shopping"
-        style="@style/activityDefault_textview"
-        android:background="#d63031"/>
-
-    <TextView
-        android:id="@+id/main_bauru_shopping"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/bauru_shopping"
-        style="@style/activityDefault_textview"
-        android:background="#e84393"/>
+        android:layout_height="match_parent"/>
 
 </LinearLayout>

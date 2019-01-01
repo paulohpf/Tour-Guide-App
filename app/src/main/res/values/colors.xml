@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="category_boulevardshopping">#FD8E09</color>
+    <color name="category_baurushopping">#379237</color>
+    <color name="category_getuliovargas">#8800A0</color>
+    <color name="category_nacoesunidas">#16AFCA</color>
 </resources>
